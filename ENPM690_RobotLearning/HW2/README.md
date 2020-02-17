@@ -1,5 +1,6 @@
 #### Information to run the code
 Go to the directory where these files are:
+
 To run the code for training the models (discrete and continuous cmac):
 
 $ python cmac_nn.py
