@@ -2,8 +2,9 @@
 
 ## This is to program and train a 1-D discrete and continuous CMAC network. 
 
-#### Information to run the code
-Go to the directory where these files are:
+#### Information to run the code 
+- In the terminal where you can run python scripts go to the directory where these files are,
+- Make sure that numpy is installed.
 
 To run the code for training the models (discrete and continuous cmac):
 
@@ -16,6 +17,4 @@ To run the code for checking the effect of generalization factor or overlapping 
 
 **$ python cmac_convergence.py**
 
-
-Make sure the terminal can run python scripts and has numpy installed
 
