@@ -10,7 +10,7 @@
 
   **$ python cmac_nn.py**
 
-- To run the code for checking the effect of generalization factor or overlapping on the convergence and the accuracy of the model:
+- To run the code for checking the effect of generalization factor or overlapping on the convergence and the accuracy of the models:
 
   **$ python cmac_convergence.py**
 
