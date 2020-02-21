@@ -12,7 +12,7 @@ To run the code for training the models (discrete and continuous cmac):
 
 
 
-To run the code for the convergence test:
+To run the code for checking the effect of generalization factor or overlapping on the convergence and the accuracy of the model:
 
 **$ python cmac_convergence.py**
 
