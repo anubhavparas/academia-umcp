@@ -1,3 +1,7 @@
+# CMAC - Cerebellar Model Articulation Controller
+
+## This is to program and train a 1-D discrete and continuous CMAC network. 
+
 #### Information to run the code
 Go to the directory where these files are:
 
