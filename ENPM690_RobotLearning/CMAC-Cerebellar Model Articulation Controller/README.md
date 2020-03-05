@@ -15,3 +15,13 @@ $ python cmac_convergence.py
 
 Make sure the terminal can run python scripts and has numpy installed
 
+Results:
+
+Discrete CMAC - generalization factor = 10
+![Alt text](images/d_cmac_10.png?raw=true "Discrete CMAC")
+
+Continuous CMAC - generalization factor = 10
+![Alt text](images/c_cmac_10.png?raw=true "Continuous CMAC")
+
+
+
