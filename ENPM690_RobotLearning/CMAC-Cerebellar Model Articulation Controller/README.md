@@ -1,19 +1,19 @@
-#### Information to run the code
-Go to the directory where these files are:
+# CMAC - Cerebellar Model Articulation Controller
 
-To run the code for training the models (discrete and continuous cmac):
+## This is to program and train a 1-D discrete and continuous CMAC network. 
 
-$ python cmac_nn.py
+#### Information to run the code 
+- In the terminal where you can run python scripts go to the directory where these files are,
+- Make sure that numpy is installed.
 
+- To run the code for training the models (discrete and continuous cmac):
 
+  **$ python cmac_nn.py**
 
+- To run the code for checking the effect of generalization factor or overlapping on the convergence and the accuracy of the models:
 
-To run the code for the convergence test:
+  **$ python cmac_convergence.py**
 
-$ python cmac_convergence.py
-
-
-Make sure the terminal can run python scripts and has numpy installed
 
 Results:
 
