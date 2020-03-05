@@ -18,10 +18,10 @@
 Results:
 
 Discrete CMAC - generalization factor = 10
-![Alt text](images/d_cmac_10.png?raw=true "Discrete CMAC")
+![Alt text](./images/d_cmac_10.png?raw=true "Discrete CMAC")
 
 Continuous CMAC - generalization factor = 10
-![Alt text](images/c_cmac_10.png?raw=true "Continuous CMAC")
+![Alt text](./images/c_cmac_10.png?raw=true "Continuous CMAC")
 
 
 
