@@ -18,10 +18,10 @@
 Results:
 
 Discrete CMAC - generalization factor = 10
-![alt text](https://github.com/anubhp/academia-umcp/blob/master/ENPM690_RobotLearning/CMAC-Cerebellar%20Model%20Articulation%20Controller/images/d_cmac_10.PNG?raw=true "Discrete CMAC")
+![alt text](./images/d_cmac_10.PNG?raw=true "Discrete CMAC")
 
 Continuous CMAC - generalization factor = 10
-![alt text](https://github.com/anubhp/academia-umcp/blob/master/ENPM690_RobotLearning/CMAC-Cerebellar%20Model%20Articulation%20Controller/images/c_cmac_10.PNG?raw=true "Continuous CMAC")
+![alt text](./images/c_cmac_10.PNG?raw=true "Continuous CMAC")
 
 
 
